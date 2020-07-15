@@ -26,6 +26,7 @@ It contains the configuration file of the pipeline specifying the submission cri
 Script that combines the individual VCF files to call and annotate the low frequency variants.
 
 ## Phylogenetic Analysis
+author: Jakob-Wendelin Genger
 Scripts for the reconstruction of global phylogeny (Global), phylogeny of Austrian strains (OnlyAustrian) and phylogeny of early European strains (EarlyEuropean) can be found in respective folders
 
 ### Phyloscript.sh
