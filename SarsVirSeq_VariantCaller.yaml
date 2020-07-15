@@ -1,0 +1,19 @@
+protocol_mapping:
+  VirSeq: VirSeq
+
+pipelines:
+  VirSeq:
+    name: VirSeq
+    path: ./SarsVirSeq_VariantCaller.py
+    arguments:
+      "-n": sample_name
+      "-dp": data_path
+      "-r": results_subdir
+      "-fc": flowcell
+    looper_args: False
+    resources:
+      default:
+        file_size: "0"
+        cores: "1"
+        mem: "40000"
+        time: "40:00:00"
