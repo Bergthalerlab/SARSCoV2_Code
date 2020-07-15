@@ -39,10 +39,10 @@ Scripts for the reconstruction of global phylogeny (Global), phylogeny of Austri
 
 ### subsampling.py
 <ol>
-<li>Creates a random subset of given sequence selection</li> 
+Creates a random subset of given sequence selection
 </ol>
 
 ### Reformat_fasta_files.py
 <ol>
-<li>Adjusts formats for Phyloscript.sh</li> 
+Adjusts formats for Phyloscript.sh
 </ol>
