@@ -27,6 +27,7 @@ Script that combines the individual VCF files to call and annotate the low frequ
 
 ## Phylogenetic Analysis
 author: Jakob-Wendelin Genger
+
 Scripts for the reconstruction of global phylogeny (Global), phylogeny of Austrian strains (OnlyAustrian) and phylogeny of early European strains (EarlyEuropean) can be found in respective folders
 
 ### Phyloscript.sh
